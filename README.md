@@ -42,9 +42,7 @@ backend/
 
 The application uses a `.env` file to store sensitive configuration:
 
-```
-MONGO_URI="mongodb+srv://patrickkinyua2004_db_user:gX5qy9njFij9BGpR@cluster0.hbt7jox.mongodb.net/?appName=Cluster0"
-```
+
 
 **Variables:**
 - `MONGO_URI` - MongoDB connection string for database access
